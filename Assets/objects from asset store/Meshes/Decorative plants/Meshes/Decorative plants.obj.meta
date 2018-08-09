@@ -1,0 +1,222 @@
+fileFormatVersion: 2
+guid: b4f866547e3ca914b8e043c49065f2a5
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Cross_bamboo
+    100002: Cross_cover
+    100004: Cross_pot
+    100006: Cross_pot_collider
+    100008: Cyl_Sph_Sqr_Bamboo
+    100010: Cylinder_cover
+    100012: Cylinder_pot
+    100014: Cylinder_pot_collider
+    100016: //RootNode
+    100018: Palm
+    100020: Pine
+    100022: Shrub
+    100024: Sphere_pot_collider
+    100026: Spheres_cover
+    100028: Spheres_pot
+    100030: Spikes
+    100032: Square_cover
+    100034: Square_pot
+    100036: Square_pot_collider
+    100038: Triangle_bamboo
+    100040: Triangle_cover
+    100042: Triangle_pot
+    100044: Triangle_pot_collider
+    400000: Cross_bamboo
+    400002: Cross_cover
+    400004: Cross_pot
+    400006: Cross_pot_collider
+    400008: Cyl_Sph_Sqr_Bamboo
+    400010: Cylinder_cover
+    400012: Cylinder_pot
+    400014: Cylinder_pot_collider
+    400016: //RootNode
+    400018: Palm
+    400020: Pine
+    400022: Shrub
+    400024: Sphere_pot_collider
+    400026: Spheres_cover
+    400028: Spheres_pot
+    400030: Spikes
+    400032: Square_cover
+    400034: Square_pot
+    400036: Square_pot_collider
+    400038: Triangle_bamboo
+    400040: Triangle_cover
+    400042: Triangle_pot
+    400044: Triangle_pot_collider
+    2100000: Cross_bambooMat
+    2100002: Cross_coverMat
+    2100004: Cross_potMat
+    2100006: Cross_pot_colliderMat
+    2100008: Cyl_Sph_Sqr_BambooMat
+    2100010: Cylinder_coverMat
+    2100012: Cylinder_potMat
+    2100014: Cylinder_pot_colliderMat
+    2100016: PalmMat
+    2100018: PineMat
+    2100020: ShrubMat
+    2100022: Sphere_pot_colliderMat
+    2100024: Spheres_coverMat
+    2100026: Spheres_potMat
+    2100028: SpikesMat
+    2100030: Square_coverMat
+    2100032: Square_potMat
+    2100034: Square_pot_colliderMat
+    2100036: Triangle_bambooMat
+    2100038: Triangle_coverMat
+    2100040: Triangle_potMat
+    2100042: Triangle_pot_colliderMat
+    2300000: Cross_bamboo
+    2300002: Cross_cover
+    2300004: Cross_pot
+    2300006: Cross_pot_collider
+    2300008: Cyl_Sph_Sqr_Bamboo
+    2300010: Cylinder_cover
+    2300012: Cylinder_pot
+    2300014: Cylinder_pot_collider
+    2300016: Palm
+    2300018: Pine
+    2300020: Shrub
+    2300022: Sphere_pot_collider
+    2300024: Spheres_cover
+    2300026: Spheres_pot
+    2300028: Spikes
+    2300030: Square_cover
+    2300032: Square_pot
+    2300034: Square_pot_collider
+    2300036: Triangle_bamboo
+    2300038: Triangle_cover
+    2300040: Triangle_pot
+    2300042: Triangle_pot_collider
+    3300000: Cross_bamboo
+    3300002: Cross_cover
+    3300004: Cross_pot
+    3300006: Cross_pot_collider
+    3300008: Cyl_Sph_Sqr_Bamboo
+    3300010: Cylinder_cover
+    3300012: Cylinder_pot
+    3300014: Cylinder_pot_collider
+    3300016: Palm
+    3300018: Pine
+    3300020: Shrub
+    3300022: Sphere_pot_collider
+    3300024: Spheres_cover
+    3300026: Spheres_pot
+    3300028: Spikes
+    3300030: Square_cover
+    3300032: Square_pot
+    3300034: Square_pot_collider
+    3300036: Triangle_bamboo
+    3300038: Triangle_cover
+    3300040: Triangle_pot
+    3300042: Triangle_pot_collider
+    4300000: Cross_bamboo
+    4300002: Cross_cover
+    4300004: Cross_pot
+    4300006: Cross_pot_collider
+    4300008: Cyl_Sph_Sqr_Bamboo
+    4300010: Cylinder_cover
+    4300012: Cylinder_pot
+    4300014: Cylinder_pot_collider
+    4300016: Palm
+    4300018: Pine
+    4300020: Shrub
+    4300022: Sphere_pot_collider
+    4300024: Spheres_cover
+    4300026: Spheres_pot
+    4300028: Spikes
+    4300030: Square_cover
+    4300032: Square_pot
+    4300034: Square_pot_collider
+    4300036: Triangle_bamboo
+    4300038: Triangle_cover
+    4300040: Triangle_pot
+    4300042: Triangle_pot_collider
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
